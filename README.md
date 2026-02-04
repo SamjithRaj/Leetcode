@@ -7,9 +7,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SamjithRaj/https-github.com-SamjithRaj-Leetcode/tree/master/0007-reverse-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SamjithRaj/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SamjithRaj/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SamjithRaj/https-github.com-SamjithRaj-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
