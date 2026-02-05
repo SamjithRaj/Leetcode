@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/SamjithRaj/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SamjithRaj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/SamjithRaj/Leetcode/tree/master/0414-third-maximum-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamjithRaj/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SamjithRaj/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/SamjithRaj/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
