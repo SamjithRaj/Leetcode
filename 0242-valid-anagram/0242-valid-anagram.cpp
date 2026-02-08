@@ -11,7 +11,7 @@ public:
         }
 
         for(auto it : freq){
-            if(it > 0 || it < 0){
+            if(it != 0){
                 return false;
             }
         }
