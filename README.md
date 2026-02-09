@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SamjithRaj/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SamjithRaj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/SamjithRaj/Leetcode/tree/master/0414-third-maximum-number) |
+| [1207-unique-number-of-occurrences](https://github.com/SamjithRaj/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamjithRaj/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SamjithRaj/https-github.com-SamjithRaj-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SamjithRaj/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SamjithRaj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SamjithRaj/Leetcode/tree/master/0409-longest-palindrome) |
+| [1207-unique-number-of-occurrences](https://github.com/SamjithRaj/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Queue
 |  |
 | ------- |
