@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SamjithRaj/Leetcode/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/SamjithRaj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SamjithRaj/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SamjithRaj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/SamjithRaj/Leetcode/tree/master/0414-third-maximum-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SamjithRaj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamjithRaj/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/SamjithRaj/Leetcode/tree/master/0414-third-maximum-number) |
 ## Design
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SamjithRaj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamjithRaj/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SamjithRaj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SamjithRaj/Leetcode/tree/master/0409-longest-palindrome) |
