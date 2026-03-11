@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SamjithRaj/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SamjithRaj/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SamjithRaj/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/SamjithRaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamjithRaj/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SamjithRaj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SamjithRaj/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SamjithRaj/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/SamjithRaj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamjithRaj/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/SamjithRaj/Leetcode/tree/master/0414-third-maximum-number) |
