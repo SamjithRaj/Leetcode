@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SamjithRaj/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/SamjithRaj/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
