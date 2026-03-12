@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SamjithRaj/https-github.com-SamjithRaj-Leetcode/tree/master/0007-reverse-integer) |
+| [0279-perfect-squares](https://github.com/SamjithRaj/Leetcode/tree/master/0279-perfect-squares) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamjithRaj/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SamjithRaj/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0279-perfect-squares](https://github.com/SamjithRaj/Leetcode/tree/master/0279-perfect-squares) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/SamjithRaj/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SamjithRaj/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
