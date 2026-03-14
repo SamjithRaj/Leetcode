@@ -1,17 +1,15 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        vector<int> freq(26, 0);
-
-        for(auto it : s){
-            freq[it - 'a']++;
+        vector<int> mpp(26, 0); 
+        for(auto x:s){
+            mpp[x-'a']++;
         }
-        for(auto it : t){
-            freq[it - 'a']--;
+        for(auto y : t){
+            mpp[y-'a']--;
         }
-
-        for(auto it : freq){
-            if(it != 0){
+        for(auto it : mpp){
+            if(it!=0){
                 return false;
             }
         }
