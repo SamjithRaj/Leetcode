@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SamjithRaj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SamjithRaj/Leetcode/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/SamjithRaj/Leetcode/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/SamjithRaj/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SamjithRaj/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1207-unique-number-of-occurrences](https://github.com/SamjithRaj/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamjithRaj/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SamjithRaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SamjithRaj/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/SamjithRaj/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/SamjithRaj/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
